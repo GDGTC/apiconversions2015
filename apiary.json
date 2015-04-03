@@ -1,0 +1,253 @@
+{    
+        "events": [
+            {
+                "event_id": 1, 
+                "title": "Keynote - Platform Matters: Building scalable products on Google Cloud Platform",
+                "location": "Auditorium",
+                "time": 1426942800,
+                "description": "Agosto’s development group has chosen to focus on building products that require high scalability. We’re building products for ourselves and for companies that market and sell software. Building products on a highly scalable Platform-as-a-Service platform is a new approach. We’ll explore differences in team makeup, product design, software development, deployment and operations. Selling products that are delivered on a PaaS platform also changes the approach for marketing, sales, delivery and operations. Agosto is working with customers to shift product offerings to a new model by changing the deployment and cost model that allows them to transform into a more competitive force in their industry.",
+                "speaker_first": "Paul",
+                "speaker_last": "Lundberg",
+                "speaker_bio": "As the Chief Technology Officer for Agosto, Paul Lundberg is responsible for intellectual property strategies and leveraging open source and proprietary technologies. Paul oversees the development of products for clients and for commercialization by Agosto. Lundberg is a member of the Google Cloud Platform Partner Advisory Board where he contributes and gains visibility into the roadmap for Google’s cloud based computing platform. Recent awards for Paul and Agosto include first place in the Google Work in the Future Development Contest, as well as recognition for Agosto's Google Cloud Platform development work. Over the past year, Lundberg was instrumental in developing a breakthrough public safety product, CitySync Safety, for Image Sensing Systems. CitySync Safety is a highly scalable multi-tenant product operating on Google’s Platform-as-a-Service technologies. Another of Lundberg's recent innovation projects includes a Google Glass concierge application, which Agosto demonstrated in Google's booth at the October 2013 Gartner IT Symposium. Lundberg holds a bachelor’s degree in computer science and business administration from Minnesota State University, Mankato, and has completed master’s level coursework in software engineering at the University of St. Thomas."
+            }, 
+            {
+                "event_id": 2, 
+                "title": "I Can Animate and So Can You",
+                "location": "Room A",
+                "time": 1426932000,
+                "description": "In this talk we will go over the methods of animating Views and ViewGroups. We’ll discuss all the normal stumbling blocks preventing one from adding these delightful improvements to your application. By the end of this talk the hope is not just to know a few tricks, but to have a mindset that enables animations in all manner of situations.",
+                "speaker_first": "Dan",
+                "speaker_last": "Lew",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 3, 
+                "title": "Internationalize your JavaScript Application: Prepare for \"the next billion\" internet users",
+                "location": "Room B",
+                "time": 1426932000,
+                "description": "Are you prepared for \"the next billion\" internet users, most of whom don't use English as their primary language? This session will explore the globalization (internationalization and localization) of JavaScript based applications. It will look at the ECMAScript Internationalization API and popular open source projects like AngularJS, messageformat.js, jQuery Globalize and twitter-cldr-js. Topics will include cultures/locales, character encoding, number formatting, date formatting, choice/plural formatting and translations.",
+                "speaker_first": "Kevin",
+                "speaker_last": "Hakanson",
+                "speaker_bio": "Kevin Hakanson (@hakanson) is an application architect for Thomson Reuters where he is focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family."
+            },
+            {
+                "event_id": 4, 
+                "title": "Tag You’re It: A Guide to a Better Analytics Foundation",
+                "location": "Room C",
+                "time": 1426932000,
+                "description": "Garbage in, Garbage out. A lack of quality data can directly impact the quality of analytics insight. Learn how to take a basic analytics implementation and supercharge it to bring it to the next level, and uncover even more insight.",
+                "speaker_first": "Dan",
+                "speaker_last": "Antonson",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 5, 
+                "title": "Arduino & App Engine - \"Get Physical with the Cloud\"",
+                "location": "Auditorium",
+                "time": 1426932000,
+                "description": "With the intersection of low cost sensors, open source hardware, and languages built for cloud based platforms we are entering an era of amazing innovation. This session will cover capturing physical data and using Arduino to send this data to a web service written in the Go Programming language that is deployed on Google App Engine.",
+                "speaker_first": "Justin",
+                "speaker_last": "Grammens",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 6, 
+                "title": "Dagger - Not as Scary As it Sounds",
+                "location": "Room B",
+                "time": 1426935600,
+                "description": "Dagger is a dependecy injection framework for android. Patrick and I will talk about what it is, why it's awesome and teaching everyone how to use it. My goal is to have everyone come out of the presentation understanding how to incorporate dagger into thier project.  Everyone is welcome, but this talk is aimed to please developers, so get ready to see some code.",
+                "speaker_first": "Patrick",
+                "speaker_last": "Fuentes",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 7, 
+                "title": "How I Learned to Stop Worrying and Love Google Glass: An Introduction",
+                "location": "Auditorium",
+                "time": 1426935600,
+                "description": "Session attendees will get an introduction to Google Glass. This includes descriptions and demonstration of hardware (v2) and software. The presentation will include brief live demos of common activities, cool features, and even a quick glance at some code. Attendees will be encouraged to ask question and engage in conversation about Glass, its potential application, and the ramifications of the impending general release.",
+                "speaker_first": "Wolf",
+                "speaker_last": "Loescher",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 8, 
+                "title": "Delivering Push Notifications to Millions of Mobile Devices",
+                "location": "Room C",
+                "time": 1426935600,
+                "description": "Push notifications are critical to craft engaging app experience and increase usage and user interest. Windows Azure Notification Hubs support multi-platform push with Android, iOS, and Windows, publish/subscribe routing to particular groups of users or devices, and low latency broadcast to millions of devices. Drop in and learn how to use Notification Hubs to target millions of devices at once and single, targeted users with just a few lines of code.",
+                "speaker_first": "Adam",
+                "speaker_last": "Grocholski",
+                "speaker_bio": ""
+            },{
+                "event_id": 9, 
+                "title": "Building Chrome Apps Hands On",
+                "location": "Room A",
+                "time": 1426935600,
+                "description": "Chrome apps are easier than you think.  If you have any experience with other browser extentions you will be blown away how easy it is to make your own browser extension with Google Chrome. Bring your laptop and this session will be a hands on experience of creating your own chrome extension to get you started down the road of fame and frustration.",
+                "speaker_first": "Lloyd",
+                "speaker_last": "Cledwyn",
+                "speaker_bio": "Lloyd Cledwyn, Director of Advancement I.T at Macalester College.  Lloyd has been manager of GDG-Twin Cities since it's inception in 2008.  He is and adjunct professor at University of St. Thomas Graduate Programs in Software teaching a course on Web Application Developent.  He'd love to hear what interesting project you are working on with Google technologies, and may ask you to speak at an upcoming GDG-TC meetup."
+            },
+            {
+                "event_id": 10, 
+                "title": "droidQuery: The Android Port of jQuery",
+                "location": "Room C",
+                "time": 1426942800,
+                "description": "will be introducing droidQuery, the Android port of jQuery. droidQuery provides simplified functionality for performing many common tasks, such as modifying the UI, performing animations, responding to events, and handling asynchronous RESTful API calls - all while maintaining a syntax as close to jQuery as possible.",
+                "speaker_first": "Phil",
+                "speaker_last": "Brown",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 11, 
+                "title": "The Web Comes Alive with Data! Schema.org and Structured Data on the Web: Past, Present, Potential",
+                "location": "Room B",
+                "time": 1426942800,
+                "description": "For years, technologists have been trying to make sense of the vast wealth of insightful data we have locked in databases and unstructured formats. There is a growing movement to transform the web from one meant for solely human consumption to one accessible for humans and machines. Schema.org is a coalition of technology companies, including Google, promoting better structured data on the web. In this session, we'll explore: the roots of the technologies behind schema.org, structured data concepts, the value prop of schema.org to webmasters, how to get started, examples, what do I get in return?",
+                "speaker_first": "Jay",
+                "speaker_last": "Myers",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 12, 
+                "title": "TECHdotMN Developer Panel \"How to Succeed as an Independent Developer\"",
+                "location": "Auditorium",
+                "time": 1426942800,
+                "description": "TECHdotMN co-founder Jeff Pesek will moderate a panel to discuss what it takes to be successful as an independent developer.  Joining him on the panel are 4 experienced local developers: Jenna Pederson, Irv Briscoe, Zachary Johnson, Jake Good. The session will also include questions/discussion from the audience.  Its a great opportunity for anyone aspiring to work as an independent consultant/contractor, to gain some valuable insight from the experience of others.",
+                "speaker_first": "Jeff",
+                "speaker_last": "Pesek",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 13, 
+                "title": "Building snappy apps on App Engine and Maps API",
+                "location": "Room A",
+                "time": 1426942800,
+                "description": "Using a real web app running on App Engine and using the Maps API, Martin will demonstrate various strategies for reducing response time. Best practices and caching  for App Engine will be reviewed. Finally, when performance can't be tuned any more, what can be done to make a better user experience? Plenty of code examples!",
+                "speaker_first": "Martin",
+                "speaker_last": "Omander",
+                "speaker_bio": "Martin has worked for three Silicon Valley startups, building web collaboration software, shop floor automation, shipping systems and payment systems. The last eight years he has been at Google, where he now helps developers put together amazing apps quickly by building on Google's platform and APIs."
+            },
+            {
+                "event_id": 14, 
+                "title": "Android 101 Workshop (hour 1 of 2)",
+                "location": "Room A",
+                "time": 1426946400,
+                "description": "In this workshop Jeremy Haberman and Brad Armstrong will provide an introduction and overview of Android for those that are brand new to the platform.  The workshop will include hands-on labs where participants will build a simple application that demonstrates core components needed for any application.  At the end of the workshop, participants will have gained an understanding of Android that will give them a jump start into Android app development.  Workshop participants must bring their own laptop with Eclipse and the Android SDK installed.  It is also helpful to install git.",
+                "speaker_first": "Brad",
+                "speaker_last": "Armstrong",
+                "speaker_bio": "Brad Armstrong and Jeremy Haberman are engineers with Code 42 Software working on the Android platform."
+            },
+            {
+                "event_id": 15, 
+                "title": "Whirlwind Tour of Scalable Vector Graphics",
+                "location": "Room B",
+                "time": 1426946400,
+                "description": "In this session you will learn production use-cases of SVG, essential elements and features of SVG as well as libraries you can use to interact with SVG and finish with a few more newer tools and techniques.",
+                "speaker_first": "Marc",
+                "speaker_last": "Grabanski",
+                "speaker_bio": "Marc’s background is in open source. He was the original creator of the jQuery UI Datepicker and is constantly teaching about front-end web development through events, articles and conferences. Marc is the creator of Frontend Masters expert web development training and is currently building large SVG-based web applications."
+            },
+            {
+                "event_id": 16, 
+                "title": "InfAlign map for the graphical display of tabular data: Yield data for financial equities",
+                "location": "Room C",
+                "time": 1426946400,
+                "description": "The InfAlign map is a patented methodology for the simultaneous graphical display of data from tens of columns and hundreds of rows from data tables.  The graphical display is interactive with the map rearranging with mouse movements.  A website showing the graphics is at http://infotrend.com/wp-includes/ITPages/WLMap2013-10-07/WLMap2013-10-07.htm .  For a presentation, I would probably show data for different types of yields from hundreds of mutual funds and ETFs.",
+                "speaker_first": "David",
+                "speaker_last": "Fan",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 17, 
+                "title": "Scale from zero to hero - Google App Engine",
+                "location": "Auditorium",
+                "time": 1426946400,
+                "description": "Behind every great developer is a great idea that never comes to fruition because of escalating hardware costs. Now, Google has solved this issue and created a launch-pad for start-ups and new ideas that can be deployed with ZERO cost up-front. This discussion will follow the path of LeadPages™ and how we used App Engine to scale our app without ever looking at hardware.",
+                "speaker_first": "Ray",
+                "speaker_last": "Aguilar",
+                "speaker_bio": "Director of Product Development, LeadPages"
+            },
+            {
+                "event_id": 18, 
+                "title": "Android 101 Workshop (hour 2 of 2)",
+                "location": "Room A",
+                "time": 1426950000,
+                "description": "In this workshop Jeremy Haberman and Brad Armstrong will provide an introduction and overview of Android for those that are brand new to the platform.  The workshop will include hands-on labs where participants will build a simple application that demonstrates core components needed for any application.  At the end of the workshop, participants will have gained an understanding of Android that will give them a jump start into Android app development.  Workshop participants must bring their own laptop with Eclipse and the Android SDK installed.  It is also helpful to install git.",
+                "speaker_first": "Brad",
+                "speaker_last": "Armstrong",
+                "speaker_bio": "Brad Armstrong and Jeremy Haberman are engineers with Code 42 Software working on the Android platform."
+            },
+            {
+                "event_id": 19, 
+                "title": "Meet Angular",
+                "location": "Auditorium",
+                "time": 1426950000,
+                "description": "Angular.js is one of a raft of popular new front-end javascript frameworks to have hit the scene in the past few years aimed at bringing sanity to the development of highly dynamic client-side functionality and single-page applications (SPAs). We will cover the current state of web development, why frameworks and libraries like Angular.js are important and valuable, and what makes Angular.js unique and especially useful. We will provide examples of Angular.js in action that showcases how it can both speed up development and make projects more robust, maintainable, and reliable the larger and older they get.  For technical audience members, we hope they leave with a better understanding about why Angular.js and frameworks/libraries like it are valuable for development and how they can start learning to use them affectively. For non-technical audience members we hope they leave with some clarity about the fast moving world of front-end web development and how these tools can help boost productivity and help projects be better maintained in the long term.",
+                "speaker_first": "Mark",
+                "speaker_last": "Nutter",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 20, 
+                "title": "Short Talks",
+                "location": "Room C",
+                "time": 1426950000,
+                "description": "Development is power by Demand. China alone has over 300 internet users. Demand is coming from markets outside of North America in the coming years. Google is building an ecosystem of new microprocessors and low-cost smartphones powered by its Android OS to connect to the wireless networks. It has deployed balloons and blimps, known as high-altitude platforms, to transmit signals to an area of hundreds of square miles. Our presentation is interactive with group input. As all knowledge work development is a collective mindset. Software and hardware integration is more common place in the age of Open Source.The Google,IBM,Microsofts are increasing force to collaborate with communities of developers and other stakeholders. And economics and political science are now part of the core business models of modern day technological companies. Geo-spatial visualization with R This talk will briefly introduce some of the geo-spatial capabilities of the R programming language. Conversion of plain language addresses into lat/long coordinates, pulling map images from Google Maps, and overplotting onto either built-in or extracted Google maps will be discussed.",
+                "speaker_first": "M A",
+                "speaker_last": "al-Kabir",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 21, 
+                "title": "PHP on App Engine Workshop",
+                "location": "Room B",
+                "time": 1426950000,
+                "description": "In earlier sessions in this track you'll hear about great things people have done with App Engine.  The PHP on Google App Engine workshop is your chance to try it out with others around to help you get it working.  We'll set up the Google App Engine SDK, create a project, and deploy it to Google App Engine following the Google App Engine PHP Tutorial.  Bring a laptop, or prepare to be recruited to pair up with others who brought theirs :-)",
+                "speaker_first": "Jeff",
+                "speaker_last": "Williams",
+                "speaker_bio": ""
+            },
+            {
+                "event_id": 22, 
+                "title": "Android Networking, Minus the Pain",
+                "location": "Auditorium",
+                "time": 1426953600,
+                "description": "Description: Over 2013, the number of full-featured networking libraries for Android grew from none to over half a dozen. During this session, you will learn what libraries are available and what each one is good at. Learn how to make RESTful truly restful.",
+                "speaker_first": "Colin",
+                "speaker_last": "Lee",
+                "speaker_bio": "Colin is lead mobile engineer at thisCLICKS Interactive, a Saint Paul mobile software startup specializing in scheduling software for hourly and shift employees. Past companies are Pearson VUE and Cray Inc."
+            },
+             {
+                "event_id": 23, 
+                "title": "Getting The Most out of Javascript Stack Traces",
+                "location": "Room B",
+                "time": 1426953600,
+                "description": "The rise of JavaScript MVC has allowed our applications to grow larger, richer, and more complex. Many applications are being crushed under their own maintenance weight. We are witness to the growth of a broken JavaScript web. But what do developers say? \"Stacktrace or GTFO!\" Having a decipherable Stack Trace is our responsibility! We, the developers, must design our code to capture and retrace error effectively. Let's explore some techniques to trace errors and debug our applications. Then dive deeper into popular libraries like stacktrace.js and tracekit. And finally, what's coming next with browsers and error services.",
+                "speaker_first": "Todd",
+                "speaker_last": "Gardner",
+                "speaker_bio": ""
+            },
+             {
+                "event_id": 24, 
+                "title": "R Workshop",
+                "location": "Room A",
+                "time": 1426953600,
+                "description": "As the worlds of data analysis and interactive web technologies begin to merge, several efforts have been made to make the power of the R language available to web developers. Attendees of this session will receive a brief introduction to R, which is a functional programming language and environment for statistical analysis and graphics. However, the real fun begins when we explore the packages available to integrate R and the web. Specifically, we will take a look at Shiny, which allows R developers to create sophisticated web applications directly in R. Then we'll delve into OpenCPU, a package that exposes an HTTP interface to R, allowing programmers and analysts access to an embedded statistical computation system. Attendees will learn the basics of R, and how to get started integrating R's vast array of statistical analysis packages with web applications.",
+                "speaker_first": "Erik",
+                "speaker_last": "Iverson",
+                "speaker_bio": ""
+            },
+             {
+                "event_id": 25, 
+                "title": "Data Migrations in the App Engine Datastore",
+                "location": "Room C",
+                "time": 1426953600,
+                "description": "The App Engine Datastore is a non-relational data store, and thus the standard mechanisms that you use with relational databases such as South with Django don't directly apply. In this talk we will look at when it is necessary to migrate data, and different approaches that you can use to manage your data migration. I will discuss pros and cons of the different approaches from my experiences building Docalytics on top of Google App Engine.",
+                "speaker_first": "Ryan",
+                "speaker_last": "Morlok",
+                "speaker_bio": ""
+            }
+        ]
+        }
